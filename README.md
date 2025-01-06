@@ -1,6 +1,6 @@
 # Power-BI-Dashboards
 
-## Répertoire Rapports :
+## Répertoire Reports :
 
 Car_Manufacturers_Dashboard.pbix: Un tableau de bord axé sur les fabricants de voitures.  
 Football_Teams_Dashboard.pbix: Un tableau de bord sur les équipes de football.  
